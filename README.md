@@ -151,7 +151,7 @@ open("Narkotika.zip", "wb").write(requests.get(url).content)
 
 | Berkas | Tautan |
 |---|---|
-| Notebook crawler & ekstraksi (Soal 2–3) | `<<ISI: link Google Colab>>` |
+| Notebook crawler & ekstraksi (Soal 2–3) | `(https://drive.google.com/file/d/1DwrN1CafPfJjP7Gm1l6PmRXv1WoGOZxb/view?usp=sharing)` |
 | Folder PDF dan TXT hasil crawling | `<<ISI: link Google Drive>>` |
 | Notebook preprocessing & indexing (Soal 4) | `<<ISI: link Google Colab>>` |
 
