@@ -32,7 +32,7 @@ nomor putusan, lembaga peradilan, barang bukti, dan amar putusan setiap dokumen.
 | **Sumber** | [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html) |
 | **Direktori / Klasifikasi** | Pidana Khusus → Narkotika dan Psikotropika |
 | **Pengadilan** | PN Banda Aceh |
-| **Rentang tahun putusan** | `<<ISI: mis. 2023–2025>>` |
+| **Rentang tahun putusan** | `2023 - 2025` |
 | **Jumlah dokumen** | 50 berkas PDF |
 | **Tingkat proses** | Pertama (bukan banding/kasasi) |
 | **Status putusan** | Tidak berstatus *berkekuatan hukum tetap* |
@@ -92,10 +92,10 @@ dan hanya mengakses halaman direktori publik. Kode lengkapnya ada pada notebook 
 | Ukuran | Nilai |
 |---|---|
 | Jumlah dokumen | 50 |
-| Distribusi per tahun putusan | `<<ISI>>` |
-| Jenis narkotika pada barang bukti (sabu / ganja / ekstasi / lainnya) | `<<ISI>>` |
-| Rata-rata panjang teks per putusan | `<<ISI>>` karakter |
-| Dokumen dengan amar dan barang bukti terekstrak | `<<ISI>>` / 50 |
+| Distribusi per tahun putusan | `Tidak Ada` |
+| Jenis narkotika pada barang bukti (sabu / ganja / ekstasi / lainnya) | `Tidak Ada` |
+| Rata-rata panjang teks per putusan | `0` karakter |
+| Dokumen dengan amar dan barang bukti terekstrak | `0` / 50 |
 
 ## 🚀 Cara Memakai
 
@@ -152,8 +152,8 @@ open("Narkotika.zip", "wb").write(requests.get(url).content)
 | Berkas | Tautan |
 |---|---|
 | Notebook crawler & ekstraksi (Soal 2–3) | `(https://drive.google.com/file/d/1DwrN1CafPfJjP7Gm1l6PmRXv1WoGOZxb/view?usp=sharing)` |
-| Folder PDF dan TXT hasil crawling | `<<ISI: link Google Drive>>` |
-| Notebook preprocessing & indexing (Soal 4) | `<<ISI: link Google Colab>>` |
+| Folder PDF dan TXT hasil crawling | `(https://drive.google.com/drive/folders/1qQeOIttRPnPLq3puGdnKI4nqrNuziMtw?usp=sharing) dan (https://drive.google.com/drive/folders/1cejPYTTGDTyuVRSjVxK2pEKlHq5BZFSP?usp=sharing)` |
+| Notebook preprocessing & indexing (Soal 4) | `(https://drive.google.com/file/d/1AANM9--Q7mOuANLRY7o-nlOV4S9dT5Yq/view?usp=sharing)` |
 
 ## 👤 Penulis
 
